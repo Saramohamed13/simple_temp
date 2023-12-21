@@ -1,0 +1,44 @@
+body {
+    font-family: 'Arial', sans-serif;
+  }
+  .ob:hover {
+    opacity: 0.4;
+  }
+  .btn-col
+  {
+    background-color: rgb(72, 180, 154);
+    margin-left: 4px;
+  }
+
+  .btn-circle {
+    border-radius: 50%;
+  }
+  .hi
+  {
+    height:40px; border-radius: 0;
+  }
+  .hi:hover
+  {
+    background-color: gray;
+  }
+
+  .circle {
+    width: 60px;
+    height: 60px;
+    bottom: -30px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #ffffff;
+
+    text-decoration: none;
+   
+  }
+.color_icon{
+  color: #ffffff;
+}
+.icn
+{
+ font-size: 30px;
+}
